@@ -1216,6 +1216,7 @@
 		A321F3871B0E22E4004D5E7F /* GNTest2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A321F3851B0E22E4004D5E7F /* GNTest2ViewController.m */; };
 		A321F3881B0E22E4004D5E7F /* GNTest2ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A321F3861B0E22E4004D5E7F /* GNTest2ViewController.xib */; };
 		A321F38C1B0E2A11004D5E7F /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = A321F38B1B0E2A11004D5E7F /* UIView+Extension.m */; };
+		A337D6AF1B0EBF4A006BFADA /* aaaa.m in Sources */ = {isa = PBXBuildFile; fileRef = A337D6AE1B0EBF4A006BFADA /* aaaa.m */; };
 		A3663CB91B0DD6950027F658 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A3663CB71B0DD6950027F658 /* LaunchScreen.xib */; };
 		A3663CC51B0DD6950027F658 /* ____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = A3663CC41B0DD6950027F658 /* ____Tests.m */; };
 		A3663CD11B0DD90C0027F658 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3663CB51B0DD6950027F658 /* Images.xcassets */; };
@@ -2451,6 +2452,8 @@
 		A321F3861B0E22E4004D5E7F /* GNTest2ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GNTest2ViewController.xib; sourceTree = "<group>"; };
 		A321F38A1B0E2A10004D5E7F /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
 		A321F38B1B0E2A11004D5E7F /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
+		A337D6AD1B0EBF4A006BFADA /* aaaa.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aaaa.h; sourceTree = "<group>"; };
+		A337D6AE1B0EBF4A006BFADA /* aaaa.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = aaaa.m; sourceTree = "<group>"; };
 		A3663CA51B0DD6950027F658 /* 高宁微博.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "高宁微博.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3663CA91B0DD6950027F658 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A3663CB51B0DD6950027F658 /* Images.xcassets */ = {isa = PBXFileReference; explicitFileType = wrapper.application; name = Images.xcassets; path = "高宁微博/Images.xcassets"; sourceTree = SOURCE_ROOT; };
@@ -2502,6 +2505,8 @@
 				A321F3861B0E22E4004D5E7F /* GNTest2ViewController.xib */,
 				A321F38A1B0E2A10004D5E7F /* UIView+Extension.h */,
 				A321F38B1B0E2A11004D5E7F /* UIView+Extension.m */,
+				A337D6AD1B0EBF4A006BFADA /* aaaa.h */,
+				A337D6AE1B0EBF4A006BFADA /* aaaa.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -9788,6 +9793,7 @@
 				A321F3721B0E0DE1004D5E7F /* GNHomeViewController.m in Sources */,
 				A321F37E1B0E1466004D5E7F /* GNTabBarViewController.m in Sources */,
 				A321F3751B0E0DF3004D5E7F /* GNMessageCenterTableViewController.m in Sources */,
+				A337D6AF1B0EBF4A006BFADA /* aaaa.m in Sources */,
 				A321E7CC1B0DE45E004D5E7F /* main.m in Sources */,
 				A321E7CB1B0DE45E004D5E7F /* AppDelegate.m in Sources */,
 				A321F3781B0E0E0A004D5E7F /* GNDiscoverViewController.m in Sources */,
